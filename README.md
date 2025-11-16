@@ -5,14 +5,13 @@ The goal of the project is to demonstrate responsive design, layout structure, a
 
 ---
 
-## 🚀 Features
+## Features
 
 - Fully responsive layout using **Bootstrap**
 - Custom styles written in CSS  
 - Example UI components:
   - Navigation bar
   - Cards / Partner previews
-  - Hero section
   - Footer
 - Clean and modern frontend design
 
