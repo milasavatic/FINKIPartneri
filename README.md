@@ -3,8 +3,6 @@
 **FINKIPartneri** is a simple frontend-only project built using HTML, CSS, and Bootstrap.  
 The goal of the project is to demonstrate responsive design, layout structure, and UI components for a potential partner-listing website.
 
----
-
 ## Features
 
 - Fully responsive layout using **Bootstrap**
